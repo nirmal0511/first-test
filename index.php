@@ -1,3 +1,1 @@
-<?php
-
-echo "Nirmal is good";
+echo "Good boy";
