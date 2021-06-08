@@ -2,4 +2,4 @@
 
 echo "Hello World!";
 
-echo "Nirmal test"
+echo "Nirmal test";
